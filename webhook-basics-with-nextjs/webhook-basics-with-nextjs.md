@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This guide explains how to set up a webhook for a Next.js application and deploy it to Vercel. Webhooks allow your application to respond to events, such as pushes to a GitHub repository, triggering automatic deployments.
+This guide explains how to set up a webhook for a Next.js application and deploy it to Vercel. Webhooks allow your application to respond to events, such as pushes to a GitHub repository, triggering automatic deployments. For more information on webhooks, visit [Webhooks.fyi](https://webhooks.fyi/).
 
 ## 2. Setting Up Your Next.js Application
 
