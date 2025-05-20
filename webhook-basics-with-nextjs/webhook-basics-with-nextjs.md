@@ -1,4 +1,4 @@
-# Webhook Basics with Next.js & GitHub
+# Webhook Basics with Next.js
 
 ## 1. Overview
 
