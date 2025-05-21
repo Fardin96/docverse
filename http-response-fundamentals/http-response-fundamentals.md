@@ -315,3 +315,13 @@
 
 ## Conclusion
 Understanding these concepts is crucial for developers working with HTTP requests and responses, ensuring efficient and error-free data handling.
+
+## Recommended Reading/Watch:
+- https://developer.mozilla.org/en-US/docs/Web/HTTP
+- https://www.youtube.com/watch?v=NqKytCEaqMw
+- https://www.youtube.com/watch?v=QeX4z-vGqY8
+- https://www.youtube.com/watch?v=hWyBeEF3CqQ
+- https://www.youtube.com/shorts/wOPrIhmi7l0
+- https://www.youtube.com/watch?v=XZyapIKV3Rw
+- https://www.youtube.com/watch?v=UMwQjFzTQXw
+- https://www.youtube.com/watch?v=iYM2zFP3Zn0
