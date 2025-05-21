@@ -1,4 +1,4 @@
-# HTTP-REPONSE-FUNDAMENTALS
+# http-response-fundamentals
 
 ## Basics
 
