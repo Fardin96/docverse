@@ -1,4 +1,4 @@
-# http-response-fundamentals
+# http-response-fundamentals-for-beginners
 
 What is http?
 Http(HyperText Transfer Protocol) is a set of rules for applications to communicate over the web via TCP. Therefore, Http isn't alone responsible for transferring the data. TCP first sets up a connection and using TCP, and following Http protocols, the sending and receiving part is accomplished.
